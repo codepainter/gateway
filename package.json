@@ -29,6 +29,7 @@
     "fastify-cli": "^1.2.0"
   },
   "devDependencies": {
+    "nodemon": "^1.19.3",
     "tap": "^12.5.3"
   }
 }
